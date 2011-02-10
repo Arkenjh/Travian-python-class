@@ -2,11 +2,15 @@
 # -*- coding: utf-8; -*- 
 #
 
-
+#
+# example file for Travian Client (beta)
+#
 
 import sys
 from TravianLogic import TravianLogic
 from Config import Config
+
+
 
 if __name__ == '__main__':
 
