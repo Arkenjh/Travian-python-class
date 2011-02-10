@@ -4,7 +4,7 @@
 
 
 class Config(object):
-    def __init__(self):
+    def __init__(self, **args):
         #Some default settings
         self.servername = 'speed.travian.us'
         self.username = 'angelow'
